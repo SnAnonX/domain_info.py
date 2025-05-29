@@ -1,4 +1,3 @@
-# domain_info.py
 import socket
 import whois
 import requests
